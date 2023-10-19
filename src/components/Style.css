@@ -1,0 +1,11 @@
+.tabpanel
+{
+  background-color: #ECF1F4;
+  color:#428CFB
+}
+
+.toggle
+{
+  display: flex;
+  justify-content: space-evenly;
+}
